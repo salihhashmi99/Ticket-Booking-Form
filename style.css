@@ -1,0 +1,66 @@
+body{
+    background-color: cornflowerblue;
+    background-image: url();
+}
+.btnCancel{
+    width: 200spx;
+    text-align: center;
+    background-color: #10363D;
+    color: beige;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.btnDone{
+    width: 200spx;
+    text-align: center;
+    background-color: #10363D;
+    color: beige;
+    height: 40px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+}
+.txtbox{
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #F8F9F9;
+    border :1px solid #070808;
+    box-shadow: 2px #070808;
+}
+.select{
+    width: 170px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #F8F9F9;
+    border :3px solid #C2C8CC;
+}
+.txtbox{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: #F8F9F9;
+    border :1px solid #070808;
+}
+.btnUpdate{
+    width: 200spx;
+    text-align: center;
+    background-color: #10363D;
+    color: beige;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+option{
+    color: grey;
+}
